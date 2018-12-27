@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatchVideoConverter", "BatchVideoConverter\BatchVideoConverter.csproj", "{180B0F6A-C7F1-4C2F-B8D2-6D686D22C89A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{180B0F6A-C7F1-4C2F-B8D2-6D686D22C89A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180B0F6A-C7F1-4C2F-B8D2-6D686D22C89A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180B0F6A-C7F1-4C2F-B8D2-6D686D22C89A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180B0F6A-C7F1-4C2F-B8D2-6D686D22C89A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {701AAD7D-EFB4-4755-84C3-3781D0F7549D}
+	EndGlobalSection
+EndGlobal
